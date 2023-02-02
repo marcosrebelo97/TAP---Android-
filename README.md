@@ -1,5 +1,5 @@
 ### Sistema de Gerencimento de Relatórios Individuais de Trabalho (RIT)
-### Projeto acadêmico desenvolvido na disciplina de Técnicas Avançados em Programação - TAP
+Projeto acadêmico desenvolvido na disciplina de Técnicas Avançados em Programação - TAP
   
   Descrição: Cada professor de universidade federal gera, a cada semestre, um Relatório Individual de Trabalho (RIT), com as informações das atividades realizadas pelo professor no semestre. Nesse trabalho, foi desenvolvido um sistema para gerenciamento e geração de RITs dos professores. 
  
