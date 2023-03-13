@@ -1,4 +1,4 @@
-<h2 align="center">Sistema de Gerencimento de Relatórios Individuais de Trabalho (RIT)</h2>
+<h3 align="center">Sistema de Gerencimento de Relatórios Individuais de Trabalho (RIT)</h2>
 
 #### Descrição:
 
