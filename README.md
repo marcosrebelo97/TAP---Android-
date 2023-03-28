@@ -14,7 +14,7 @@ Pensando em facilitar esse trabalho, nesse projeto foi desenvolvido um sistema p
     - Alunos de graduação - projeto final/TCC;
     - Alunos de graduação - iniciação científica;
     - Alunos de mestrado;
-    - Alunos de doutorado;
+    - Alunos de doutorado.
   - Atividades realizadas:
     - Artigos publicados;
     - Atividades de coordenação.
@@ -22,7 +22,7 @@ Pensando em facilitar esse trabalho, nesse projeto foi desenvolvido um sistema p
 #### Ferramentas utilizadas:
   - Desenvolvimento Android com Java - Intents e Activities;
   - Android Studio IDE; 
-  - Banco de dados: SQLite;
+  - Banco de dados: SQLite.
     
 
         
